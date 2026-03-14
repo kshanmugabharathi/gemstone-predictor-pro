@@ -111,10 +111,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Large data files
-artifacts/*.csv
-artifacts/*.pkl
-!artifacts/.gitkeep
 
 # Spyder project settings
 .spyderproject
