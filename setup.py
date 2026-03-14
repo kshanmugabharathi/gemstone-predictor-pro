@@ -25,8 +25,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name = 'gemstone-predictor',
     version= '0.0.1',
-    author='Shahbaz Khan',
-    author_email='mrkhan41998@gmail.com',
+    author='Shanmugabharathi',
+    author_email='kkshanmugabharathi6@gmail.com',
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt')
 )
